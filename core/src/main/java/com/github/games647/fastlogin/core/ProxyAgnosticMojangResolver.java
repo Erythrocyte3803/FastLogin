@@ -44,7 +44,7 @@ import java.util.Optional;
  */
 public class ProxyAgnosticMojangResolver extends MojangResolver {
 
-    private static final String HOST = "s.aihmc.top/sessionserver";
+    private static final String HOST = ".aihmc.top/sessionserver";
 
     /**
      * A formatting string containing a URL used to call the {@code hasJoined} method on mojang session servers.
